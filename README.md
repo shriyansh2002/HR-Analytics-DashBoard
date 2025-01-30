@@ -50,7 +50,7 @@ Attrition Status
 Other HR-related attributes
 
 📸 Dashboard Preview
-
+![image alt](https://github.com/shriyansh2002/HR-Analytics-DashBoard/blob/87a1ac658f0a47a46149db59a8bc0c5fcbc25222/DashBoard.png)
 
 
 
